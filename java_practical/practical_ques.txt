@@ -1,0 +1,30 @@
+Java Practical -
+Total number of Questions 20-
+1 2 3 4 8 10 12 18 19 22 24 25 26 27 29 31 34 36 54 55
+1. wap to print hello world.
+2. wap to demonstrate use of ooperators like _, +. *, / with integer and string.
+3. find largest.
+4. wap to calculate area of circle.
+5. wap to generate fibonacci series.
+6. wap to use for loop to print pattern like
+	1
+	1 2
+	1 2 3
+	1 2 3 4
+7. wap to print prime number series using while loop
+8. wap to create an array of characters and reverse all of them.
+9. wap to find sum of array elements.
+10. wap to find out second maximum and second minimum from the list.
+11. wap for binary search.
+12. wap to perform bubble sort on array.
+10. wap to perform insertion sort on array.
+14. wap to search a string within another string.
+15. wap to reverse each word in a sentence.
+16. wap to accept a sentence and break it into an array of strings at each white
+space.
+17. wap to demonstrate function overriding.
+18. wap to initialize variable by constructor chaining.
+19. wap which will take user input like his id, name, address and phone number
+after that all these detail will be saved on file.
+20. wap which will take user id from the user, search the file for details and then
+print the details.
