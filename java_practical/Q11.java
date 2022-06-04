@@ -28,6 +28,5 @@ public class Q11 {
 	}
 }
 
-
-
+// output -> 2
 
