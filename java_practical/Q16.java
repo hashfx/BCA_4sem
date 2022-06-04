@@ -9,3 +9,9 @@ class Q16{
 		}
 	}
 }
+
+// Output -> 
+// Hello
+// I'm
+// your
+// String
