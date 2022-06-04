@@ -23,3 +23,10 @@ public class Q10 {
         }
     }
 }
+
+
+// Output:
+// 5 7 3 9 4
+// 5 7 3 9 4 
+// Second Maximum element in array: 7
+// Second Minimum element in array: 4
