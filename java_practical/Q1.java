@@ -5,6 +5,8 @@ public class Q1 {
 	}
 }
 
+// Output -> 
+// Hello World
 
 
 
