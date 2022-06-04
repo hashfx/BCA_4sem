@@ -5,7 +5,7 @@ public class Q20{
         try{
             Scanner sc = new Scanner(System.in);
             System.out.print("Enter your ID: ");
-            int id = sc.nextLine();
+            int id = sc.nextInt();
 
             BufferedReader br = new BufferedReader(new FileReader("Q19.txt"));
             String line = br.readLine();
