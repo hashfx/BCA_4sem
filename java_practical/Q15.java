@@ -31,3 +31,9 @@ public class Q15
 	obj.reverseWordInMyString("This is an easy Java Program");
    }
 }
+
+// Output ->
+// Welcome to Indore
+// emocleW ot erodnI 
+// This is an easy Java Program
+// sihT si na ysae avaJ margorP 
