@@ -10,7 +10,7 @@ public class Q20{
             BufferedReader br = new BufferedReader(new FileReader("Q19.txt"));
             String line = br.readLine();
             while(line != null){
-                if(line.contains("ID")){
+	    if(line.contains("Name")){
                     System.out.println("{\n");
                     System.out.println(line);
                     line = br.readLine();
@@ -31,7 +31,7 @@ public class Q20{
 }
 
 // Output ->
-// Enter your id: Bill
+// Enter your id: 21
 // {
 
 //         Name: Bill Gates,
