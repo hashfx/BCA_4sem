@@ -24,3 +24,7 @@ public class Q9 {
     }
 
 }
+
+// Output ->
+// 1 5 3 4 2
+// sum: 15
