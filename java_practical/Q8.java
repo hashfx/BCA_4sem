@@ -20,3 +20,7 @@ public class Q8 {
     }
 
 }
+
+// Output -> 
+// h e l l o 
+// o l l e h 
