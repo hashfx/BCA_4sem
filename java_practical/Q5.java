@@ -1,7 +1,5 @@
 // 5. wap to generate fibonacci series.
 
-// package java_practical;
-// import java.util.*;
 class Q5 {
     static int fib(int n) {
         if (n <= 1)
@@ -19,3 +17,15 @@ class Q5 {
         }
     }
 }
+
+// Output ->
+// 0 
+// 1 
+// 1 
+// 2 
+// 3 
+// 5 
+// 8 
+// 13 
+// 21 
+// 34 
