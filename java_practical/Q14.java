@@ -44,4 +44,5 @@ class Q14 {
 	}
 }
 
-// This code is contributed by JaideepPyne.
+// Output ->
+// Present at index 2
